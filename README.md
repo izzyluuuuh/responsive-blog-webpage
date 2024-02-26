@@ -1,4 +1,5 @@
 # Main Web Page
+<sup>ASP.NET Web Design</sup>
 
 ---
 
@@ -48,8 +49,11 @@ https://getbootstrap.com/docs/4.6/getting-started/introduction/
 9. Apply the grid system to produce a responsive web page.
 10. To check if the page is responsive, right click on your created web page and choose Inspect.
 11. Click the toggle device toolbar and to select a mobile phone size.
+
 ![Screenshot 2024-02-26 185813](https://github.com/izzyluuuuh/responsive-blog-webpage/assets/103919666/b0410c8a-ac9b-46e4-994e-e0e8419db3ae)
+
 12. You can also choose the dimensions for responsive or different devices.
+
 ![Screenshot 2024-02-26 185914](https://github.com/izzyluuuuh/responsive-blog-webpage/assets/103919666/85eff436-fa7d-4e84-8794-a6b2f9ecfb0a)
 
 ---
